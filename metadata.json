@@ -1,0 +1,6 @@
+{
+  "name": "PYQ Analyzer",
+  "description": "Analyze engineering previous year question papers, tag topics and units, identify repeating patterns, and generate smart revision plans.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
